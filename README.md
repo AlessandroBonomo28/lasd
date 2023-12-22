@@ -13,3 +13,7 @@ Ogni esercizio ha la sua rispettiva traccia pdf.
 ![2i9buz](https://user-images.githubusercontent.com/75626033/217077278-fa56621d-5eb3-4d84-adf9-0603eaf9a7e6.jpg)
 
 [lasd doggo](https://www.youtube.com/watch?v=Tpb3VM-rMFk&ab_channel=Idostuff)
+
+## Tools
+- **gdb** per il debugging
+- **valgrind** per analisi di memory leaks
